@@ -3,7 +3,7 @@ import config from "../config/config";
 import axios from "axios";
 
 import Styles from "../components/styles/global.module.css";
-import samplegam from "../assets/wel.jpg";
+// import samplegam from "../assets/wel.jpg";
 // import  DetilTanaman  from "../components/detil_tanaman";
 
 class Detail extends Component {

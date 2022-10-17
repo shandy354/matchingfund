@@ -50,9 +50,7 @@ body{
     font-weight: bold;
 }
 
-.rows{
 
-}
 .imgdetil{
     width: 380px;
 }
@@ -90,9 +88,7 @@ padding: 30px;
 .item_tanaman div button:hover{
     opacity: .6;
 }
-.input{
 
-}
 .input button{
     background-color: var(--primary);
     padding: 15px 25px;
@@ -123,16 +119,4 @@ padding: 30px;
     width: 615px;
     display: inline-table;
     text-align: justify;
-}
-.etil_item{
-
-}
-.padding sm{
-
-}
-.padding md{
-
-}
-.padding lg{
-
 }
